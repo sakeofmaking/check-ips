@@ -5,3 +5,6 @@
 * Ping IPs
 * Return passing IPs
 * Return failing IPs
+
+### Example Report
+<img src="example report.PNG" />
